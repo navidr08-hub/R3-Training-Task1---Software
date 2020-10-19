@@ -10,7 +10,7 @@ A dip switch was then used to choose the control modes, to decide how the motors
 
 <br>
 
-![Hardware And Wiring!](images/tinkerpic.png)
+![Hardware And Wiring!](https://github.com/navidr08-hub/R3-Training-Task1---Software/blob/master/tinkerpic.PNG)
 
 <br>
 <br>
